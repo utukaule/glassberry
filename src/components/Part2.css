@@ -1,0 +1,44 @@
+.col1 {
+    background-color: #0A2233;
+}
+
+.col2 {
+    background-color: #C29C00;
+}
+
+.content {
+    color: white;
+}
+
+.twobhk {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 45px;
+    color: white;
+}
+
+.price {
+    line-height: 0px;
+    font-size: 28px;
+    font-weight: bolder;
+    color: white;
+}
+.collast{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#linkanchor{
+    text-decoration: none;
+    color: white;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+#linkanchor:hover{
+    text-decoration: none;
+    color: black;
+    font-size: 28px;
+    font-weight: 600;
+}

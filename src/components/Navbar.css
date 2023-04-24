@@ -1,0 +1,23 @@
+#logo {
+    height: 80px;
+    width: 80px;
+    padding: 7px;
+}
+
+#comapanyName {
+    color: #B59504;
+    font-size: 26px;
+    font-weight: 600;
+    margin-left: -10px
+}
+
+#navBarBtn {
+    background-color: #C29C00;
+    border: none;
+    color: white;
+    padding: 0 20px;
+    line-height: 42px;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 6px;
+}
