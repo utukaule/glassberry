@@ -1,0 +1,47 @@
+.heading{
+    font-size: 20px;
+    color: #e4b300;
+    font-weight: 700;
+}
+.secondHeading{
+    font-size: 24px;
+    font-weight: 500;
+}
+.decription{
+    font-size: 18px;
+}
+
+.points{
+    font-size: 18px;
+}
+.head{
+    background-color: #FFF4F5;
+    border-bottom: 2px solid black;
+}
+
+.formHead{
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.formHead2{
+    font-size: 18px;
+    font-weight: bolder;
+}
+.inputs{
+    margin: 15px 10px;
+    padding: 10px 15px;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+
+}
+
+.btnQuote{
+    background-color: #e4b300;
+    padding: 10px 30px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 6px;
+
+}

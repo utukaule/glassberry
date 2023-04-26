@@ -21,7 +21,7 @@ const Part2 = () => {
                         </div>
 
                     </div>
-                    <div className='row ms-3 mt-5'>
+                    <div className='row ms-3 mt-4 mb-3'>
                         <div className='col d-flex'>
                             <div>
                                 <img src={home}  width={65} height={70} />
@@ -39,7 +39,7 @@ const Part2 = () => {
                 
 
                 <div className='col col1'>
-                <div className='row ms-3 mt-3'>
+                <div className='row ms-3 mt-4 mb-3'>
                         <div className='col d-flex'>
                             <div>
                                 <img src={home}  width={65} height={70} />
@@ -53,7 +53,7 @@ const Part2 = () => {
                         </div>
 
                     </div>
-                    <div className='row ms-3 mt-5'>
+                    <div className='row ms-3 mt-3'>
                         <div className='col d-flex'>
                             <div>
                                 <img src={home}  width={65} height={70} />
