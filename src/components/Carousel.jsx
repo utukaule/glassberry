@@ -5,7 +5,7 @@ import '../components/Carousel.css';
 
 const Carousel = () => {
   return (
-    <div>
+    <div className=''>
       <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
 
         <div class="carousel-indicators">

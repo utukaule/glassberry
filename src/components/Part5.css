@@ -1,0 +1,15 @@
+.parallax {
+    background-image: url("https://romanesqueinteriors.com/interior-design-pune/images/common/widehome.jpg");
+
+    /* Set a specific height */
+    min-height: 400px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.para{
+    padding-top: 100px;
+}

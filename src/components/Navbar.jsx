@@ -5,7 +5,7 @@ import '../components/Navbar.css';
 const Navbar = () => {
     return (
         <div>
-            <nav class="navbar navbar-expand-lg fixed-top" id='navbar'>
+            <nav class="navbar navbar-expand-lg bg-light fixed-top" id='navbar'>
                 <div class="container-fluid">
                     
                     <img class="navbar-brand" id='logo' src={logo} />

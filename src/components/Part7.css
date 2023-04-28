@@ -1,0 +1,18 @@
+.cardback{
+    background-color: #fff5f5;
+    border: none;
+    border-radius: 15px;
+}
+
+.choose{
+    width: 80px;
+    height: 100px;
+    margin-left: 70px;
+}
+.equire{
+    background-color: #c29c00;
+    border: none;
+    color: white;
+    font-weight: bolder;
+    border-radius: 6px;
+}
